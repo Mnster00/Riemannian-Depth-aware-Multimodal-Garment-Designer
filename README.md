@@ -17,8 +17,8 @@ RDMGD integrates multiple modalities (text, pose, depth, segmentation, and image
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rdmgd-minimal.git
-cd rdmgd-minimal
+git clone https://github.com/Mnster00/Riemannian-Depth-aware-Multimodal-Garment-Designer.git
+cd rdmgd-official
 
 # Install dependencies
 pip install -r requirements.txt
